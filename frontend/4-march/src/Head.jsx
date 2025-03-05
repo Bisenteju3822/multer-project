@@ -3,7 +3,7 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-function Header() {
+function Head() {
   return (
     <>
       <Navbar
@@ -26,4 +26,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Head;
